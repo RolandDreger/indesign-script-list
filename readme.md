@@ -24,7 +24,7 @@ Alternative Microsoft Word import for Adobe InDesign.
 ### [Color Script](https://github.com/RolandDreger/indesign-color-script)
 The script helps with handling colour management in Adobe InDesign.
 
-### [Proper word division](https://github.com/RolandDreger/indesign-highlight-grep)
+### [Proper word division](https://github.com/RolandDreger/indesign-proper-word-division)
 Find words with incorrect hyphenation.
 
 ### [x-Height](https://github.com/RolandDreger/get-x-height)

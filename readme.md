@@ -39,6 +39,8 @@ This script for Adobe InDesign creates default layers based on the defined setti
 ## Download scripts
 On the respective GitHup page, the scripts are best downloaded with the ZIP folder via the `Code` button and unpacked locally.
 
+<img width="1266" alt="github_code_download" src="https://github.com/user-attachments/assets/1266c8a9-d47e-411b-922c-1a6c18d58dd8">
+
 ## Support
 If you want to support the development of these scripts:
 

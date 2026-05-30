@@ -36,6 +36,9 @@ Change page options of placed PDF, AI and INDD files in Adobe InDesign.
 ### [Create default layers](https://github.com/RolandDreger/create-default-layers)
 This script for Adobe InDesign creates default layers based on the defined settings.
 
+### [Add bookmarks](https://github.com/RolandDreger/indesign-add-bookmarks)
+Create bookmarks in an Adobe InDesign document using paragraph styles, character styles, or a GREP search. 
+
 ## Download scripts
 On the respective GitHup page, the scripts are best downloaded with the ZIP folder via the `Code` button and unpacked locally.
 

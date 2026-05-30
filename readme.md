@@ -45,6 +45,6 @@ On the respective GitHup page, the scripts are best downloaded with the ZIP fold
 <img width="1266" alt="github_code_download" src="https://github.com/user-attachments/assets/1266c8a9-d47e-411b-922c-1a6c18d58dd8">
 
 ## Support
-If you want to support the development of these scripts:
+You can support the script development via **PayPal** [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=roland%2edreger%40a1%2enet&lc=AT&item_name=Roland%20Dreger%20%2f%20Donation%20for%20indesign%20script%20development&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) or **GitHub Sponsors** (button in the right sidebar).
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=roland%2edreger%40a1%2enet&lc=AT&item_name=Roland%20Dreger%20%2f%20Donation%20for%20indesign%20script%20development&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
